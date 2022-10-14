@@ -1,0 +1,14 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "A simple javascript module allowing to encode and decode messages from base2 to base36",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvain",
+  "license": "ISC"
+}
